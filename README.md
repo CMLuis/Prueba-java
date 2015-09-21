@@ -33,3 +33,7 @@ git add . --all
 git commit -m "Descripcion de las modificaciones"
 
 git push
+
+git config --global credential.helper cache
+
+git config --global credential.helper 'cache --timeout36000'
