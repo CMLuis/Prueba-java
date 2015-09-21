@@ -17,3 +17,7 @@ Asteriscos delante y detras para poner cursiva
 Dos asteriscos negrita.
 Tres asteriscos negrita y cursiva.
 Entre mayor y menor para poner hiperenlaces.
+
+# Github
+git add . --all
+git commit -m "Descripcion de las modificaciones"
