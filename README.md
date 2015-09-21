@@ -16,7 +16,8 @@ Dos almuadillas h2
 
 ...
 
-Asteriscos delante y detras para poner cursiva \n
+Asteriscos delante y detras para poner cursiva
+
 Dos asteriscos negrita.
 
 Tres asteriscos negrita y cursiva.
