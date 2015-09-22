@@ -1,0 +1,21 @@
+Empresa 2: Sistema tri-camara, para seguridad y vigilancia en carretera automatizado.
+
+2. Servicios de mejora de la calidad de vida.
+	2.2 Seguridad
+			Vigilancia en transportes.
+
+El producto se llamaría: QuadCamCar (QCC)
+
+I. Presentación.
+Se trata de un dispositivo para la seguridad en carretera, cuyo fin es ayudar a evitar las colisiones o en caso de que se producan, proporcionar las pruebas necesarias para resolverlo con los correspondientes seguros. Es un concepto futurista que aprovecha las últimas innovaciones informáticas para los vehículos del siglo XXI.
+
+II. En que consiste. / Como funciona
+Con el fin de eliminar los espejos y retrovisor y sus puntos muertos, así como agregando una frontal para cubrir los 360º durante la conducción. Logrando de esta forma computerizar los datos, pudiendo darle al conductor mayor cantidad de información, así como asegurar la obtención de la misma en caso de siniestro.
+Las camaras estarían comunicadas con el ordenador de abordo, que visualizaría los diferentes ángulos en una pantalla superpuesta en la luna. La interfaz se desarrollaría con la idea de evitar distraer la atención del camino, puesto que no habría que apartar la mirada del frente en ningún momento.
+El sistema calcularía las trayectorias y velocidades de los vehículos cercanos, pudiendo avisar en caso de que se prevea colisión. En este caso el mismo sistema comenzaría la grabación del evento para su posterior estudio en caso de ser necesario.
+
+III. Características técnicas
+El producto consta de 4 camaras digitales de 5mpx, situadas en la posición trasera (cámara de aparcamiento / retrovisor central digital) a la altura de la luz de freno superior, posiciones laterales (retrovisores laterales digitales) a la altura de los retrovisores tradicionales y posición frontal encima de la luna.
+También dispone de 4 juegos de sensores de movimiento (3 sensores c/u), situados junto a las cámaras.
+Pantalla panorámica para visualización o bien reproducción de las imágenes en luna interactiva.
+Caja negra para registro automático de grabaciones de cámaras.
